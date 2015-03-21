@@ -13,3 +13,8 @@ git commit -a -m "Описание сделанного изменения"
 git push origin 
 
 пока не понятно.
+
+Смотреть здесь
+http://eax.me/git-commands/
+https://github.com/saahov/mt-wiki/blob/master/README.md
+https://github.com/alex85k/labGIT/blob/master/README.md
